@@ -1,0 +1,40 @@
+.header{
+	min-height: 200px;
+	background-color: hotpink;
+}
+.wrapper{
+	overflow: hidden;
+}
+.contact{
+	min-height: 200px;
+	background-color: lightblue;
+	width: 60%;
+	float: left;
+}
+.blog{
+	min-height: 200px;
+	background-color: khaki;
+	width: 40%;
+	float: right;
+}
+.container{
+	overflow: hidden;
+}
+.box{
+	min-height: 200px;
+	width: 33.3%;
+	float: left;
+}
+.fuchsia{
+	background-color: fuchsia;
+}
+.dodgerblue{
+	background-color: dodgerblue;
+}
+.greenyellow{
+	background-color: greenyellow;
+}
+.footer{
+	min-height: 200px;
+	background-color: lightseagreen;
+}
